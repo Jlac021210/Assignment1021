@@ -8,7 +8,7 @@ public class Main {
         String name = scanner.nextLine();
         
         System.out.println("Your name is " + name+" my name is fred");
-        
+        System.out.println("This is a change");
         scanner.close();
     }
 }
